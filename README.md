@@ -2,6 +2,7 @@
 🖥Developer | CSGO
 
 <!--
+xd
 **Holex33/Holex33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started
@@ -16,5 +17,4 @@ Here are some ideas to get you started
 -->
 💻Discord Developer server💻
 https://dsc.gg/forcedevelopers
--->
-xdxx
+
